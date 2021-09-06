@@ -1,0 +1,23 @@
+body {
+    margin: 0;
+}
+
+.imgSize {
+    height: 200px;
+    padding: 10px;
+}
+
+.addBtn {
+    border: none;
+    padding: 5px 10px;
+}
+
+.cartImg {
+    height: 100px;
+}
+
+.addCartItem {
+    margin-top: 50px;
+    border-top: 2px solid gray;
+    border-bottom: 2px solid gray;
+}
